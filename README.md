@@ -1,5 +1,5 @@
 
-# HelloMicroverse
+# HelloMicroverse-Project
 
 > This project tests use of linter for HTML and CSS. It also tests the basics of github such as creating a branch, writing professional commit messages, ignoring files using .gitignore file and pulling of files.
 
