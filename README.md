@@ -16,6 +16,8 @@
 👤 **Author**
 
 - GitHub: [@kessio](https://github.com/kessio)
+- twitter: [@kessio](https://twitter.com/kessio_sharon)
+- linkedin: [@kessio](https://www.linkedin.com/in/sharon-kessio-172220b5/)
 
 ## 🤝 Contributing
 
